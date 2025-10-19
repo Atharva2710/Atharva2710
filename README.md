@@ -8,7 +8,7 @@
 <table>
   <tr>
     <td width="70%" valign="top">
-      I'm a first-year student at <strong>Scaler School of Technology (BITS Pilani)</strong>, passionate about the intersection of AI, Computer Science, and innovative problem-solving. I'm learning to think like a developer and build solutions that push technological boundaries.
+      I'm a first-year student at <strong>Scaler School of Technology and BITS Pilani</strong>, passionate about the intersection of AI, Computer Science, and innovative problem-solving. I'm learning to think like a developer and build solutions that push technological boundaries.
       <br><br>
       <ul>
         <li><b>Currently Exploring:</b> Generative AI, computer vision, and building impactful applications.</li>

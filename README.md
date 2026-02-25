@@ -13,7 +13,7 @@
       <ul>
         <li><b>Currently Exploring:</b> Generative AI, computer vision, and building impactful applications.</li>
         <li><b>Learning:</b> Advancing my knowledge in Python, Docker, and system design.</li>
-        <li><b>Contact:</b> Drop me a mail at <a href="mailto:atharvaagrawalind@gmail.com">atharvaagrawalind@gmail.com</a></li>
+        <li><b>Contact:</b> Drop me a mail at <a href="mailto:atharvaagrawalind1@gmail.com">atharvaagrawalind@gmail.com</a></li>
       </ul>
     </td>
     <td width="30%">
